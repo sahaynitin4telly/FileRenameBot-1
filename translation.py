@@ -1,21 +1,21 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , Hi I Am A Rename/Convert 2 Video Bot With Custom Thumbnail Support😍️</b> \n
 
-<b>Bot Maintained By: @AyushBots 😎️</b> \n
+<b>Bot Maintained By: @tellyfun_4u 😎️</b> \n
 <b>Do /help for more...</b> \n
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
-    BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @CyberBoyAyush For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @tellyfun_4u For more Details.. " 
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @CyberBoyAyush "
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me Join Updates Channel> @AyushBots  ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me Join Updates Channel> @tellyfun_4u ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @CyberBoyAyush "
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @CyberBoyAyush "
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @tellyfun_4u "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /deletethumbnail ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Cleared Succesfully😐️"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
